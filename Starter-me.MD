@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Awareness & Best Practices
 
-Maintaining strong cybersecurity is essential for every developer, whether working on personal projects or contributing to open-source communities. This repository serves as a resource hub for understanding and applying security principles in software development.
+Updating and improving strong cybersecurity is essential for every developer, whether working on personal projects or contributing to open-source communities it is . This repository serves as a resource hub for understanding and applying security principles in software development.
 
 ---
 
@@ -32,22 +32,13 @@ Maintaining strong cybersecurity is essential for every developer, whether worki
 ---
 
 ## 👨‍💻 Credits
-This repository and its cybersecurity documentation are curated and maintained by:
+This repository and its cybersecurity documentation are fully curated and maintained by:
 
 **Max-Works0**  
 🔗 [GitHub Profile](https://github.com/Max-Works0)
 
-Max is dedicated to building secure, reliable, and open-source solutions. By sharing knowledge on cybersecurity, Max empowers developers to write safer code and protect digital ecosystems.
-
----
-
-## 🚀 How to Contribute
-1. Fork the repo  
-2. Create a new branch (`feature/security-tip`)  
-3. Commit your changes  
-4. Open a Pull Request  
-
-Contributions are welcome — whether it’s adding new security tips, sharing tools, or improving documentation.
+I am dedicated to building secure, reliable, and open-source solutions. By sharing knowledge on cybersecurity, I want to empower developers to write safer code and protect digital ecosystems and offer advice.
+If you please do have any questions or would like your system's tested securley please do reach out to me via my profile. 
 
 ---
 
